@@ -47,3 +47,5 @@ python pricebot.py
 ## Custom bots
 
 Need a bot for your Telegram group or Discord server? Price alerts, welcome messages, moderation, or integrations with your shop or tools. Get in touch via GitHub.
+
+**Order a custom Telegram group bot on Fiverr:** https://www.fiverr.com/s/RVVE0DL
